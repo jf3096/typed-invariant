@@ -1,18 +1,16 @@
 {
   "name": "typed-invariant",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "typed-invariant",
   "keywords": [
     "invariant",
     "typed-invariant",
     "enhanced invariant"
   ],
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "author": "Ailun She",
   "files": [
-    "browser.js",
-    "invariant.js",
-    "invariant.js.flow"
+    "invariant.js"
   ],
   "repository": "https://github.com/jf3096/typed-invariant",
   "main": "invariant.js"
