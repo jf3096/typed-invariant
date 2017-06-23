@@ -18,7 +18,7 @@ Here are the changes:
 With [npm](http://npmjs.org) do:
 
 ```sh
-npm install typed-invariant
+npm install typed-invariant -S
 ```
 
 ## `invariant(condition, message)`
